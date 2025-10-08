@@ -85,13 +85,11 @@
 ### 🏠 **Game Interface**
 *Colorful card grid with timer and move counter*
 
-![Game Screenshot](https://i.ibb.co/bdC8f6w/memory-game-preview.png)
+![Game Screenshot](https://github.com/arun-248/memory-match-game/blob/main/Game_Interface.png)
 
 ### 🎉 **Victory Screen**
 *Celebration popup showing game statistics and best score*
-
-### 📱 **Mobile View**
-*Responsive 4×4 grid optimized for touch devices*
+![Game Screenshot](https://github.com/arun-248/memory-match-game/blob/main/Victory_Screen.png)
 
 </div>
 
